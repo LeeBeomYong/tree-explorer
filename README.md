@@ -1,3 +1,34 @@
+# 정보
+이 프로젝트는 angular2-tree-component와 ngx-datatable를 사용하여 개발되었다.
+
+이 프로젝트의 데모 URL은 
+
+https://tree-explorer.firebaseapp.com/
+
+입니다.
+
+angular2-tree-component는 Tree explorer 기능을 위해서 추가되었다.
+
+이에 대한 더 자세한 내용은 
+
+https://angular2-tree.readme.io/docs/getting-started
+
+https://github.com/500tech/angular-tree-component
+
+를 참고하길 바란다.
+
+ngx-datatable은 Tree explorer에서 선택한 항목에 대해 data를 테이블 형태로 보여주기 위해서 추가되었다.
+
+이에 대한 더 자세한 내용은 
+
+https://github.com/swimlane/ngx-datatable
+
+https://swimlane.gitbooks.io/ngx-datatable/content/
+
+http://swimlane.github.io/ngx-datatable/#
+
+를 참고하길 바란다.
+
 # TreeviewAngularTreeComponent
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
